@@ -1,0 +1,3 @@
+osmnx
+matplotlib
+oracle_cx
